@@ -1,20 +1,14 @@
 ---
 name: Datumbox
 x-slug: datumbox
-description: 'Datumbox offers a powerful open-source Machine Learning Framework written
-  in Java. Discover today its large collection of algorithms, models, statistical
-  tests and tools. The Datumbox API offers a large number of off-the-shelf Classifiers
-  and Natural Language Processing services which can be used in a broad spectrum of
-  applications including: Sentiment Analysis, Topic Classification, Language Detection,
-  Subjectivity Analysis, Spam Detection, Reading Assessment, Keyword and Text Extraction
-  and more. All services are accessible via our powerful REST API which allows you
-  to develop your own smart Applications in no time.'
-image: http://www.datumbox.com/img/logo.png
+description: Build quickly and easily Intelligent Applications by using the power
+  of Machine Learning!
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/11516-datumbox.jpg
 x-kinRank: "9"
-x-alexaRank: ""
+x-alexaRank: "514549"
 tags: Commercial
-created: "2018-05-20"
-modified: "2018-05-20"
+created: "2018-06-18"
+modified: "2018-06-18"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/commercial/master/_listings/datumbox/apis.md
 specificationVersion: "0.14"
 apis:
@@ -23,34 +17,28 @@ apis:
   description: The Commercial Detection function labels the documents as commercial
     or non-commercial based on their keywords and expressions. It can be used to detect
     whether a website is commercial or not.
-  image: http://www.datumbox.com/img/logo.png
-  humanURL: http://www.datumbox.com/
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/11516-datumbox.jpg
+  humanURL: http://datumbox.com
   baseURL: https://api.datumbox.com/1.0///CommercialDetection.json
   tags: Commercial,Detection
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/commercial/master/_listings/datumbox/commercialdetectionjson-post-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/commercial/master/_listings/datumbox/commercialdetection-json-post-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/commercial/master/_listings/datumbox/commercialdetectionjson-post-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/commercial/master/_listings/datumbox/commercialdetection-json-post-openapi.md
 - name: Datumbox
   x-api-slug: datumbox
-  description: 'Datumbox offers a powerful open-source Machine Learning Framework
-    written in Java. Discover today its large collection of algorithms, models, statistical
-    tests and tools. The Datumbox API offers a large number of off-the-shelf Classifiers
-    and Natural Language Processing services which can be used in a broad spectrum
-    of applications including: Sentiment Analysis, Topic Classification, Language
-    Detection, Subjectivity Analysis, Spam Detection, Reading Assessment, Keyword
-    and Text Extraction and more. All services are accessible via our powerful REST
-    API which allows you to develop your own smart Applications in no time.'
-  image: http://www.datumbox.com/img/logo.png
-  humanURL: http://www.datumbox.com/
+  description: Build quickly and easily Intelligent Applications by using the power
+    of Machine Learning!
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/11516-datumbox.jpg
+  humanURL: http://datumbox.com
   baseURL: https://api.datumbox.com/1.0/
   tags: Commercial
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/commercial/master/_listings/datumbox/openapi.md
 x-common:
-- type: x-apijson--authoritative
+- type: x-api-json--authoritative
   url: http://apis.io/apisdef/legacy/datumbox.json
 - type: x-blog
   url: http://blog.datumbox.com/
@@ -76,6 +64,8 @@ x-common:
   url: http://www.datumbox.com/privacy-policy/
 - type: x-terms-of-service
   url: http://www.datumbox.com/terms-of-use/
+- type: x-website
+  url: http://datumbox.com
 - type: x-website
   url: http://www.datumbox.com/
 include: []
