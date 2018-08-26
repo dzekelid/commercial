@@ -7,39 +7,33 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/11516-datu
 x-kinRank: "9"
 x-alexaRank: "514549"
 tags: Commercial
-created: "2018-06-25"
-modified: "2018-06-25"
+created: "2018-08-25"
+modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/commercial/master/_listings/datumbox/apis.md
 specificationVersion: "0.14"
 apis:
-- name: Datumbox Classifies the Document as commercial or nocommercial
-  x-api-slug: datumbox
+- name: DatumBox - Classifies the Document as commercial or nocommercial
+  x-api-slug: commercialdetection-json-post
   description: The Commercial Detection function labels the documents as commercial
     or non-commercial based on their keywords and expressions. It can be used to detect
     whether a website is commercial or not.
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/11516-datumbox.jpg
   humanURL: http://datumbox.com
-  baseURL: https://api.datumbox.com/1.0///CommercialDetection.json
-  tags: Commercial,Detection
+  baseURL: https://api.datumbox.com/1.0/
+  tags: Machine Learning, Content, Stack Network, API Provider, API Service Provider,
+    SaaS, Technology, Enterprise, Profiles, Service API, Relative Data
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/commercial/master/_listings/datumbox/commercialdetection-json-post-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/commercial/master/_listings/datumbox/commercialdetection-json-post-openapi.md
-- name: Datumbox
-  x-api-slug: datumbox
-  description: Build quickly and easily Intelligent Applications by using the power
-    of Machine Learning!
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/11516-datumbox.jpg
-  humanURL: http://datumbox.com
-  baseURL: https://api.datumbox.com/1.0/
-  tags: Commercial
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/commercial/master/_listings/datumbox/openapi.md
 x-common:
 - type: x-api-json--authoritative
   url: http://apis.io/apisdef/legacy/datumbox.json
+- type: x-api-gallery
+  url: http://datadog.api.gallery.streamdata.io
+- type: x-api-stack
+  url: http://datumbox.stack.network
 - type: x-blog
   url: http://blog.datumbox.com/
 - type: x-blog-rss
