@@ -1,0 +1,223 @@
+{
+	"name": "Streadata.io API Gallery - Commercial",
+	"description": "This is a repository of commercial APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/commercial.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-27",
+	"url": "http://commercial.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "Datumbox",
+			"x-api-slug": "datumbox",
+			"description": "Build quickly and easily Intelligent Applications by using the power of Machine Learning!",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/11516-datumbox.jpg",
+			"humanURL": "http://datumbox.com",
+			"baseURL": "https://api.datumbox.com/1.0/",
+			"tags": "Commercial",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/commercial/master/_listings/datumbox/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "HSBC",
+			"x-api-slug": "hsbc",
+			"description": "HSBC Holdings plc is a British multinational banking and financial services holding company, tracing its origin to a hong in Hong Kong. It is the worlds seventh largest bank by total assets and the largest in Europe with total assets of US$2.374 trillion (as of December 2016). It was established in its present form in London in 1991 by The Hongkong and Shanghai Banking Corporation to act as a new group holding company. The origins of the bank lie mainly in Hong Kong and to a lesser extent in Shanghai, where branches were first opened in 1865. The HSBC name is derived from the initials of the Hongkong and Shanghai Banking Corporation. The company was first formally incorporated in 1866. The company continues to see both the United Kingdom and Hong Kong as its home markets.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/HSBC-Logo.png",
+			"humanURL": "https://hsbc.com",
+			"baseURL": "https://api.hsbc.com/open-banking/v2.1/",
+			"tags": "Commercial",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/commercial/master/_listings/hsbc/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Lloyds Bank",
+			"x-api-slug": "lloyds-bank",
+			"description": "Lloyds Bank plc is a British retail and commercial bank with branches across England and Wales. It has traditionally been considered one of the Big Four clearing banks. The bank was founded in Birmingham in 1765. It expanded during the nineteenth and twentieth centuries and took over a number of smaller banking companies. In 1995 it merged with the Trustee Savings Bank and traded as Lloyds TSB Bank plc between 1999 and 2013.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/lloyds_bank.png",
+			"humanURL": "https://lloydsbank.com",
+			"baseURL": "https://api.lloydsbank.com/open-banking/v2.1/",
+			"tags": "Commercial",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/commercial/master/_listings/lloyds-bank/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Barclays",
+			"x-api-slug": "barclays",
+			"description": "Barclays is a British multinational bank and financial services company headquartered in London. It is a universal bank with global reach, offering products and services across personal, corporate and investment banking, credit cards and wealth management. It has operations in over 40 countries and employs approximately 120,000 people. Barclays is organised into four core businesses: Personal &amp; Corporate (Personal Banking, Corporate Banking, Wealth &amp; Investment Management), Barclaycard, Investment Banking and Africa.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/barclays-logo.png",
+			"humanURL": "https://barclays.com",
+			"baseURL": "https://atlas.api.barclays/open-banking/v2.1/",
+			"tags": "Commercial",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/commercial/master/_listings/barclays/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Royal Bank of Scotland",
+			"x-api-slug": "royal-bank-of-scotland",
+			"description": "The Royal Bank of Scotland (Scottish Gaelic: Banca R&igrave;oghail na h-Alba, Scots: Ryal Baunk o Scotland, Welsh: Banc Brenhinol yr Alban), commonly abbreviated as RBS, is one of the retail banking subsidiaries of The Royal Bank of Scotland Group plc, together with NatWest and Ulster Bank. The Royal Bank of Scotland has around 700 branches, mainly in Scotland, though there are branches in many larger towns and cities throughout England and Wales. Both the bank and its parent, The Royal Bank of Scotland Group, are completely separate from the fellow Edinburgh-based bank, the Bank of Scotland, which pre-dates The Royal Bank of Scotland by 32 years.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/royal-bank-of-scotland.png",
+			"humanURL": "https://www.rbs.com",
+			"baseURL": "https://openapi.rbs.co.uk/open-banking/v2.1/",
+			"tags": "Commercial",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/commercial/master/_listings/royal-bank-of-scotland/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Santander Bank",
+			"x-api-slug": "santander-bank",
+			"description": "Santander Bank, N. A., formerly Sovereign Bank, is a wholly owned subsidiary of Spanish Santander Group. It is based in Boston and its principal market is the northeastern United States. It has $54.7 billion in deposits, operates about 650 retail banking offices and over 2,000 ATMs, and employs approximately 9,800 people. It offers an array of financial services and products including retail banking, mortgages, corporate banking, cash management, credit card, capital markets, trust and wealth management, and insurance.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28128-www-santanderbank-com.jpg",
+			"humanURL": "https://www.santanderbank.com",
+			"baseURL": "https://openapi.santander.co.uk/open-banking/v2.1/",
+			"tags": "Commercial",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/commercial/master/_listings/santander-bank/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "NatWest",
+			"x-api-slug": "natwest",
+			"description": "National Westminster Bank, commonly known as NatWest, is a large retail and commercial bank in the United Kingdom. It was established in 1968 by the merger of National Provincial Bank (established 1833 as National Provincial Bank of England) and Westminster Bank (established 1834 as London County and Westminster Bank). Since 2000 it has been part of the Royal Bank of Scotland Group. Following ring-fencing of the Groups core domestic business, the bank is a direct subsidiary of NatWest Holdings. NatWest Markets comprises its investment banking arm.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/natwest-logo.png",
+			"humanURL": "https://personal.natwest.com/personal.html",
+			"baseURL": "https://openapi.natwest.com/open-banking/v2.1/",
+			"tags": "Commercial",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/commercial/master/_listings/natwest/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Nationwide Building Society",
+			"x-api-slug": "nationwide-building-society",
+			"description": "Nationwide Building Society is a British mutual financial institution and the largest building society in the world with over 15 million members. It has its headquarters in Swindon, with an office in Threadneedle Street, London, and administration centres based in Bournemouth, Northampton and Dunfermline. Made up of over a hundred mergers &mdash; most notably its merger with Anglia Building Society in 1987 and Portman Building Society in 2007 &mdash; Nationwide is now the second largest provider of household savings and mortgages in the UK.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/nationwide-building-society.png",
+			"humanURL": "https://www.nationwide.co.uk/",
+			"baseURL": "https://openapi.nationwide.co.uk/open-banking/v2.1/",
+			"tags": "Commercial",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/commercial/master/_listings/nationwide-building-society/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Bank of Ireland",
+			"x-api-slug": "bank-of-ireland",
+			"description": "Bank of Ireland Group plc is a public limited company incorporated in Ireland, with its registered office at 40 Mespil Road, Dublin 4 and registered number 593672. Bank of Ireland Group plc, whose shares are listed on the main markets of the Irish Stock Exchange plc and the London Stock Exchange plc , is the holding company of Bank of Ireland.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/bank-of-ireland.jpg",
+			"humanURL": "https://www.bankofireland.com/",
+			"baseURL": "https://openapi.bankofireland.com/open-banking/v2.1/",
+			"tags": "Commercial",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/commercial/master/_listings/bank-of-ireland/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Bank of Scotland",
+			"x-api-slug": "bank-of-scotland",
+			"description": "The Bank of Scotland is a commercial and clearing bank based in Edinburgh, Scotland. With a history dating to the 17th century, it is the fifth-oldest surviving bank in the United Kingdom (the Bank of England having been established one year before), and is the only commercial institution created by the Parliament of Scotland to remain in existence. It was one of the first banks in Europe to print its own banknotes and it continues to print its own sterling banknotes under legal arrangements which allow Scottish banks to issue currency.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/bank-of-scotland-logo.jpg",
+			"humanURL": "https://www.bankofscotland.co.uk/",
+			"baseURL": "https://api.bankofscotland.co.uk/open-banking/v2.1/",
+			"tags": "Commercial",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/commercial/master/_listings/bank-of-scotland/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Dezrez",
+			"x-api-slug": "dezrez",
+			"description": "Cloud based estate agent software , sales & letting agent software, estate agent website design and property management software - Dezrez  Services",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-dezrez-com.jpg",
+			"humanURL": "https://www.dezrez.com",
+			"baseURL": "https://api.dezrez.com//",
+			"tags": "Commercial",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/commercial/master/_listings/dezrez/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "Commercial",
+	"include": [
+		{
+			"name": "Datumbox",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/commercial/master/_listings/datumbox/apis.yaml"
+		},
+		{
+			"name": "HSBC",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/commercial/master/_listings/hsbc/apis.yaml"
+		},
+		{
+			"name": "Lloyds Bank",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/commercial/master/_listings/lloyds-bank/apis.yaml"
+		},
+		{
+			"name": "Barclays",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/commercial/master/_listings/barclays/apis.yaml"
+		},
+		{
+			"name": "Royal Bank of Scotland",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/commercial/master/_listings/royal-bank-of-scotland/apis.yaml"
+		},
+		{
+			"name": "Santander Bank",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/commercial/master/_listings/santander-bank/apis.yaml"
+		},
+		{
+			"name": "NatWest",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/commercial/master/_listings/natwest/apis.yaml"
+		},
+		{
+			"name": "Nationwide Building Society",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/commercial/master/_listings/nationwide-building-society/apis.yaml"
+		},
+		{
+			"name": "Bank of Ireland",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/commercial/master/_listings/bank-of-ireland/apis.yaml"
+		},
+		{
+			"name": "Bank of Scotland",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/commercial/master/_listings/bank-of-scotland/apis.yaml"
+		},
+		{
+			"name": "Dezrez",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/commercial/master/_listings/dezrez/apis.yaml"
+		}
+	]
+}
